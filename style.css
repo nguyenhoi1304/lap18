@@ -1,0 +1,37 @@
+.bg-img1 {
+    background-image:url("https://i.ex-cdn.com/giadinhmoi.vn/files/content/2022/10/20/chup-anh-dep-07-1637.jpg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: 20%;
+    background-color: #fff;
+}
+
+.bg-img2{
+    background-image: url("https://vcdn-dulich.vnecdn.net/2020/09/04/1-Meo-chup-anh-dep-khi-di-bien-9310-1599219010.jpg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: 20%;
+    background-color: #fff;
+
+}
+
+.bg-img3{
+    background-image: url("https://hinhanhdephd.com/wp-content/uploads/2015/12/hinh-anh-dep-girl-xinh-hinh-nen-dep-gai-xinh.jpg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: 20%;
+    background-color: #fff;
+}
+
+footer {
+    margin-top: 200px;
+}
